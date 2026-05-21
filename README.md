@@ -58,22 +58,15 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
 
----
-
 ## 📊 GitHub Analytics
 
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kiranthr&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kiranthr&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=Kiranthr&theme=tokyonight"/>
-
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Kiranthr&theme=github-dark-blue&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiranthr&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiranthr&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ## 🐍 Contribution Snake
