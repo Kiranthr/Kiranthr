@@ -12,7 +12,7 @@
 
 ## 🌌 About Me
 
-💫 Computer Science Engineering student at **GITAM University** (CGPA: **8.97**)  
+💫 Computer Science Engineering student at **GITAM University** (CGPA: **9.07**)  
 🚀 Passionate about **Full Stack Development**, scalable systems, and solving real-world problems  
 💡 Exploring Web Development, AI, Trading & Software Engineering  
 🌱 Currently learning: **Advanced Java, MERN Stack, AI/ML**  
