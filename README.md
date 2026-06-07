@@ -72,7 +72,7 @@
 
 ## 🏆 Achievements
 
-🎓 CGPA: 8.97  
+🎓 CGPA: 9.07
 💻 Built MERN Projects  
 🌱 Continuous learner  
 🔥 Solving DSA consistently  
